@@ -82,9 +82,9 @@ export default function InventoryPage() {
                       <p>📚 집중력 +{item.stats.focus}</p>
                     )}
 
-                    {item.stats.luck && (
-                      <p>🍀 행운 +{item.stats.luck}</p>
-                    )}
+                    {item.stats.efficiency && (
+  <p>⚡ 효율 +{item.stats.efficiency}</p>
+)}
 
                     {item.stats.will && (
                       <p>🔥 의지 +{item.stats.will}</p>
