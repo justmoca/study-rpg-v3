@@ -8,7 +8,7 @@ import StudyButton from "@/components/StudyButton";
 import MonsterCard from "@/components/MonsterCard";
 import TodayStatusCard from "@/components/TodayStatusCard";
 import BottomNav from "@/components/BottomNav";
-import FocusTimer from "@/components/FocusTimer";
+
 import {
   getCurrentWorldMonsters,
   getCurrentBoss,
@@ -45,7 +45,6 @@ const showBoss =
 
  <GoalCard />
 
-<FocusTimer />
 
 <div className="mt-6">
   <StudyButton />
