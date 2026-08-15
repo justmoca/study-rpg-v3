@@ -132,7 +132,7 @@ alert(
           </h2>
 
           <p className="text-gray-600 mt-2">
-            필요 공부시간 : 필요 공부시간 : {formatTime(needTime)}
+            필요 공부시간 : {formatTime(needTime)}
           </p>
 
           <p className="text-blue-600">
