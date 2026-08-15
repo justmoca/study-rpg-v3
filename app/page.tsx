@@ -45,7 +45,6 @@ const showBoss =
 
  <GoalCard />
 
-
 <div className="mt-6">
   <StudyButton />
 </div>
